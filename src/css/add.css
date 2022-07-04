@@ -1,0 +1,39 @@
+input {
+    width: 500px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-top: 15px;
+
+}
+
+select {
+    width: 515px;
+    height: 30px;
+    background-color: #5a3434;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-top: 15px;
+    color: ghostwhite;
+
+}
+
+#btn {
+    
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 500px;
+    height: 30px;
+    background-color: oldlace;
+    border-radius: 10px;
+    color: black;
+
+
+}
+.btn{
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+    border-radius: 11px;
+}
